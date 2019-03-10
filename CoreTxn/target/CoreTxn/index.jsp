@@ -9,6 +9,10 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h2>This Is my First DevOps ProjectDemo!</h2>
+<<<<<<< HEAD
+        <h2>Demo for Maven --> Jenkins --> Tomcat Deploy</h2>
+=======
+        <h2>Demo - Jenkins --> Maven --> Tomcat Deploy</h2>
+>>>>>>> 2047387c1a601a91eabb87ae8454ca9b8b04a0bd
     </body>
 </html>
