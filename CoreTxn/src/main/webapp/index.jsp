@@ -9,6 +9,6 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h2>This Is my First DevOps ProjectDemo!</h2>
+        <h2>Demo for Maven --> Jenkins --> Tomcat Deploy</h2>
     </body>
 </html>
