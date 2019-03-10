@@ -9,6 +9,6 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h2>This Is my First DevOps Project/Demo</h2>
+        <h2>This Is my First DevOps ProjectDemo!</h2>
     </body>
 </html>
