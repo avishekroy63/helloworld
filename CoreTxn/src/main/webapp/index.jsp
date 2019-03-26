@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Demo:: GIT Commit --> Maven --> Jenkins --> Tomcat Deploy</h1>
+        <h1>Demo:: GIT Commit --> Maven --> Jenkins --> Tomcat Deploy on AWS</h1>
     </body>
 </html>
